@@ -1,0 +1,26 @@
+table {
+    width: 50%;
+    height: 300px;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+td {
+    width: 14.2%;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+#bang1 {
+    width: 50%;
+    height: 100px;
+    margin: auto;
+    border-color: white;
+    border-collapse: collapse;
+    background-color: white;
+}

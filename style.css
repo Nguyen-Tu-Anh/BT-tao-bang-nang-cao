@@ -1,0 +1,12 @@
+table {
+    width: 50%;
+    height: 400px;
+    background-color: orange;
+    border-collapse: collapse;
+}
+.white {
+    background-color: white;
+}
+.black {
+    background-color: black;
+}
